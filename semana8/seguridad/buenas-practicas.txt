@@ -1,0 +1,3 @@
+1. Proteger contraseñas mediante el uso de gestores seguros y evitar reutilizarlas en diferentes sitios.
+2. No compartir credenciales ni accesos administrativos con personas externas o canales inseguros.
+3. Mantener software actualizado a su última versión para corregir fallos y vulnerabilidades del sistema.

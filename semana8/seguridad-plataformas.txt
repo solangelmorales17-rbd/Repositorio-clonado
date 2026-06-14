@@ -1,0 +1,6 @@
+Prácticas de seguridad para una plataforma digital comunitaria:
+
+1. No exponer datos personales: Resguardar la información privada de los miembros de la comunidad (correos, documentos o teléfonos) para evitar su uso indebido.
+2. Proteger credenciales: Exigir contraseñas seguras a todos los usuarios y fomentar el uso de la autenticación en dos pasos (2FA).
+3. Usar conexiones seguras: Implementar certificados SSL/TLS (HTTPS) para que toda la información que viaja entre los usuarios y la plataforma esté cifrada.
+4. Registrar accesos: Mantener un historial de quién entra al sistema y qué cambios realiza, permitiendo detectar actividades sospechosas a tiempo.
