@@ -1,0 +1,15 @@
+PLAN DE ITERACIÓN SIMPLE
+
+1. ¿Qué 2 tareas del backlog harías primero?
+   - Tarea 1: El formulario para que el ciudadano pueda reportar una irregularidad de forma anónima.
+   - Tarea 2: La vista de panel o listado para que el coordinador de veeduría pueda ver los reportes recibidos.
+
+2. ¿Por qué son las más importantes?
+   Son las más importantes porque constituyen el núcleo del sistema (el "Mínimo Viable"). Sin una forma de capturar el reporte de la comunidad y sin un canal para que los coordinadores lo lean, el sistema no cumple su propósito principal. El resto de las funciones (consultar estados o descargar estadísticas) dependen de que estos datos existan primero.
+
+3. Definición de Terminado (Definition of Done - DoD):
+   Una tarea se considera "terminada" cuando cumple estrictamente con los siguientes 4 criterios:
+   - Funciona localmente en el entorno de desarrollo sin lanzar errores.
+   - Fue probada manualmente completando el flujo completo de simulación.
+   - El código es limpio, libre de variables o tokens sensibles expuestos.
+   - Los cambios fueron confirmados (commit) y subidos (push) exitosamente al repositorio de Git.

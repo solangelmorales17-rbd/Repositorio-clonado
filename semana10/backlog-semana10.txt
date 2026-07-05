@@ -1,0 +1,11 @@
+HISTORIAS DE USUARIO - SOLUCIÓN DE VEEDURÍA CIUDADANA
+
+[ALTA PRIORIDAD]
+1. Como ciudadano, quiero reportar de forma anónima una irregularidad en una obra pública local para alertar a la comunidad sin temor a reprisalias.
+2. Como coordinador de veeduría, quiero visualizar un listado con los reportes comunitarios más recientes para clasificar su nivel de urgencia.
+
+[MEDIA PRIORIDAD]
+3. Como ciudadano, quiero consultar el estado de un reporte que envié previamente para saber si la veeduría ya lo está revisando.
+
+[BAJA PRIORIDAD]
+4. Como miembro del equipo de veeduría, quiero descargar un resumen estadístico mensual de los reportes para presentarlo en las reuniones comunitarias.
