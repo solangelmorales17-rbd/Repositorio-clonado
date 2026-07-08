@@ -1,0 +1,5 @@
+El proceso de login o inicio de sesión permite verificar la identidad de un ciudadano o administrador mediante credenciales seguras antes de otorgar acceso a las funcionalidades del sistema. 
+
+Es fundamental proteger ciertas rutas de la aplicación porque en ellas se realizan acciones críticas, como la creación de propuestas, la edición de reportes comunitarios o la gestión de auditorías ciudadanas, funciones que no deben estar disponibles de forma abierta para evitar el vandalismo digital o la manipulación de datos. 
+
+En una plataforma de este tipo, bajo ninguna circunstancia se debe exponer públicamente información sensible como contraseñas, hashes de seguridad, números de documento de identidad, direcciones residenciales, números telefónicos privados, tokens de sesión o claves de API del servidor.

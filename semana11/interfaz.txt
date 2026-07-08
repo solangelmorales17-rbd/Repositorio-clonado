@@ -1,0 +1,10 @@
+Descripción de la Interfaz Gráfica de la Plataforma:
+
+1. Vista Principal (Catálogo de Causas):
+Una pantalla limpia que despliega tarjetas (cards) informativas con todas las causas comunitarias disponibles. Cada tarjeta muestra el título, una descripción breve, la etiqueta del sector y el acumulado de apoyos. No se revelan datos personales de los creadores.
+
+2. Formulario para Crear una Causa:
+Un componente accesible únicamente para usuarios autenticados. Contiene campos de texto claros para el 'Título de la iniciativa', un área de texto para la 'Descripción detallada' y un menú desplegable para seleccionar la categoría. Incluye un botón destacado para 'Publicar Causa'.
+
+3. Mecanismo de Respaldo (Botón y Contador):
+Dentro de cada tarjeta de causa, se ubica un botón interactivo con el icono de un pulgar arriba o un corazón para 'Apoyar'. Al lado del botón, un contador numérico se actualiza en tiempo real mostrando la cantidad total de apoyos recibidos de forma clara y visible.

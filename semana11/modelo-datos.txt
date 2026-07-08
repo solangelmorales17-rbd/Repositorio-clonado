@@ -1,0 +1,24 @@
+Entidad: Causa
+
+Campos principales:
+- id (Numérico / Autoincremental)
+- titulo (Texto)
+- descripcion (Texto largo)
+- sector (Texto, ej: "Educación", "Infraestructura")
+- fecha_creacion (Fecha)
+
+Propósito:
+Almacenar las iniciativas, proyectos o problemáticas comunitarias propuestas por los ciudadanos que requieren atención, visibilidad o apoyo en la plataforma.
+
+--------------------------------------------------
+
+Entidad: Apoyo
+
+Campos principales:
+- id (Numérico / Autoincremental)
+- causa_id (Numérico / Relación con Causa)
+- usuario_anonimizado (Texto / Código único de usuario)
+- fecha_apoyo (Fecha y Hora)
+
+Propósito:
+Registrar de forma segura y transparente el respaldo digital que los ciudadanos otorgan a cada causa, permitiendo cuantificar el interés comunitario sin exponer la identidad directa del votante.
